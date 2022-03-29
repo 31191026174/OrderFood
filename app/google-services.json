@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330063838991",
+    "project_id": "orderfood-86d6c",
+    "storage_bucket": "orderfood-86d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330063838991:android:e7819b769223d65109887a",
+        "android_client_info": {
+          "package_name": "phong09.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330063838991-k02em59ctj9a041ttc0sned3q43ne27b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9cCOeo_67FTrvshDz9qNW4aCEAKojZXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330063838991-k02em59ctj9a041ttc0sned3q43ne27b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
